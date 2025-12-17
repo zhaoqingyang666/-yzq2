@@ -1,0 +1,7 @@
+{
+  "name": "Mars Horizon",
+  "description": "A stylized, infinite 3D Mars landscape generator featuring smooth geometric terrain and atmospheric lighting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
